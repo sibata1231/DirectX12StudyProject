@@ -33,3 +33,7 @@
 
 # Add
 *.vs
+*.user
+*.exe.recipe
+*.log
+~/x64/*
