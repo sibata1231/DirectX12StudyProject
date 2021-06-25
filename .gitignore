@@ -36,4 +36,6 @@
 *.user
 *.exe.recipe
 *.log
-/x64/*
+[Dd]ebug*/
+[Ll]ib/
+[Rr]elease*/
